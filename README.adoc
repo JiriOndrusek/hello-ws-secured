@@ -1,0 +1,3 @@
+= Hello JAX-WS container for testing WS clients
+
+Based on https://github.com/l2x6/helloworld-ws and https://github.com/wildfly/wildfly/tree/main/testsuite/integration/ws/src/test/java/org/jboss/as/test/integration/ws/wsse/usernametoken
